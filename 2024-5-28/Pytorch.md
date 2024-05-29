@@ -4,7 +4,7 @@
 
 ### 学习系统：
 
-![image-20240520221757161](assets/image-20240520221757161.png)
+![image-20240520221757161](https://github.com/Enolaalone/Enolaalone-AI_Ere_Pic/tree/main/assets/image-20240520221757161.png)
 
 >  Deep Learning 端到端
 
