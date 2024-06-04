@@ -4,4 +4,4 @@
 -[Notes](https://github.com/Enolaalone/AI_Ere/blob/main/2024-5-24/Pytorch.md)   
 
 ## --2024-6-4
-- [Pytorch]()
+- [Pytorch](https://github.com/Enolaalone/AI_Era/tree/main/2024-6-4)    
