@@ -1,0 +1,46 @@
+* text=auto eol=lf
+# 统一换行符号\n 还有需要添加
+# 来自：https://forum.obsidian.md/t/being-able-to-select-line-endings-crlf-lf/5294/14
+# 常见源代码文件
+*.c text eol=lf
+*.cpp text eol=lf
+*.h text eol=lf
+*.hpp text eol=lf
+*.java text eol=lf
+*.xml text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.jsx text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+
+# 配置文件
+*.yml text eol=lf
+*.yaml text eol=lf
+*.toml text eol=lf
+*.ini text eol=lf
+*.conf text eol=lf
+
+# 文档与文本文件
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.log text eol=lf
+*.rst text eol=lf
+*.tex text eol=lf
+
+# 脚本文件
+*.sh text eol=lf
+*.bash text eol=lf
+
+# Python 文件
+*.py text eol=lf
+
+# Ruby 文件
+*.rb text eol=lf
+
+# 其他文件
+*.dockerfile text eol=lf
+Makefile text eol=lf
+.gitignore text eol=lf
